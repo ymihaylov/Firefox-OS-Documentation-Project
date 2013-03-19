@@ -1,0 +1,4 @@
+http://en.wikipedia.org/wiki/Firefox_OS
+https://wiki.mozilla.org/B2G/Architecture
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS
+http://en.wikipedia.org/wiki/Gecko_(layout_engine)
