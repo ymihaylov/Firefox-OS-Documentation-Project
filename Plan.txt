@@ -2,11 +2,12 @@ Firefox OS
 ==========
 1. Общи приказки
 - Като въведение, представяме какво е Firefox OS
-- Linux базирана операционна система за телефони, таблети
-- Разработена така, че HTM5 приложения да могат да комуникират с хардуера
-- Съвместима с Android базирани устройства и Rasberi Pi
-- Очаква се да излезе Юли 2013
-
+	- Linux базирана операционна система за телефони, таблети
+	- Разработена така, че HTM5 приложения да могат да комуникират с хардуера
+	- Съвместима с Android базирани устройства и Rasberi Pi
+	- Очаква се да излезе Юли 2013
+- Хардуерни изисквания
+- Бутони и контроли
 
 2. История и цел на проекта
 - Началото с анонсираното име 'Boot 2 Gecko'
@@ -50,5 +51,26 @@ Firefox OS
  - Портване между Gecko to Gonk, както и Gecko to Android 
  - Firefox OS излага интерфейси от Gecko към Gonk, който не може да изложи към други ОС
 
- 6. Boot2Gecko Архитектура
+6. Boot2Gecko Архитектура (wiki.mozilla.org)
+- Терминлогия
+	- Терминлогия, препокриваща слоевете от т. 5 за Gonk, Gecko, Gaia с по-подробни описания.
+		- Gaia 
+			- Design Patterns
+			- Building Blocks
+			- Applications
+			- System
+		- Gecko - информация за работата на Gecko в Firefox OS и като цяло информация за Geckо като engine
+- Booting
+- Kernel (Linux) - информация от wiki.mozilla.org + още някаква информация за linux kernel-ите като цяло		- init процес в Gonk, също и информация за самия процес в останали UNIX-like системи
+- Userspace process architecture  		
+- Gecko: Processing input events
+- Gecko: Graphics
+- Gecko: Hardware Abstraction Level (hal)
+- Gecko: DOM APIs
+- Radio Interface Layer (RIL)
+- 3G Data
+- Wi-Fi
 
+7. Писане на приложения за Firefox OS
+- Тук може да вкараме някаква кратка информация за това как и с какво се пишат приложенията, съвети и техники etc.
+- UX - как трябва да изглеждат приложенията, patterns, style guides

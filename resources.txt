@@ -2,3 +2,8 @@ http://en.wikipedia.org/wiki/Firefox_OS
 https://wiki.mozilla.org/B2G/Architecture
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS
 http://en.wikipedia.org/wiki/Gecko_(layout_engine)
+
+https://wiki.mozilla.org/Gaia/Design/Patterns
+https://wiki.mozilla.org/Gaia/Design/BuildingBlocks
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Introduction
