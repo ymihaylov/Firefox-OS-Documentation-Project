@@ -7,3 +7,10 @@ https://wiki.mozilla.org/Gaia/Design/Patterns
 https://wiki.mozilla.org/Gaia/Design/BuildingBlocks
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Introduction
+
+http://hoowstuffworks.blogspot.com/2011/07/mozilla-making-mobile-os-using-android.html
+http://www.techweekeurope.co.uk/news/zte-firefox-os-smartphone-ces-103878
+http://blog.mozilla.org/blog/2012/02/27/mozilla-in-mobile-the-web-is-the-platform/
+
+
+
