@@ -32,8 +32,10 @@
 	https://wiki.mozilla.org/B2G/Architecture#Kernel_.28Linux.29
 	http://en.wikipedia.org/wiki/Linux_kernel (Въвеждащия параграф на Wiki)
 	http://en.wikipedia.org/wiki/Linux_kernel#Technical_features (Параграфите за Архитектура и Portability, като от Portability, без Kernel panic и kernel loops)
-Лъчо
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+	Някой?
+-----------------------------------------
 	init
 	https://wiki.mozilla.org/B2G/Architecture#init
 	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Platform/Architecture#The_init_process
@@ -41,7 +43,11 @@
 	Userspace process architecture
 	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Platform/Architecture#The_userspace_process_architecture
 	https://wiki.mozilla.org/B2G/Architecture#Userspace_process_architecture
-
+Лъчо
+------------------------------------------------------------------------------------------------------------------------------------------------------
+	Writing applications for Firefox OS
+	Performance in Firefox OS
+	Debugging Firefox OS applications
 Явор
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 	Gecko
